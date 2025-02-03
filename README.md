@@ -13,5 +13,5 @@ A beautifully designed **Flutter paywall screen** to enhance user experience and
 ## 🛠 How to Use  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/A-Desmond/flutter_paywal_template.git
+   git clone https://github.com/A-Desmond/flutter_paywall_templates
    cd flutter_paywall_template
